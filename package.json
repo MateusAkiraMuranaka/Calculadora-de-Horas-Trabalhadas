@@ -1,0 +1,16 @@
+{
+  "name": "calculadora-de-horas-trabalhadas",
+  "version": "1.0.0",
+  "description": "Projeto em Node de uma calculadora de horas trabalhadas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.5"
+  }
+}
